@@ -68,7 +68,7 @@ export function PricingSection() {
               </ul>
 
               <div className="mt-8 flex flex-1 items-end">
-                <CtaButton href="https://kiwify.com.br" className="w-full">QUERO LIBERAR MEU ACESSO</CtaButton>
+                <CtaButton href="https://pay.kiwify.com.br/stmZJ3Z" className="w-full">QUERO LIBERAR MEU ACESSO</CtaButton>
               </div>
             </div>
           </Reveal>
